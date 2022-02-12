@@ -3,7 +3,7 @@
         <div class="login-box">
             <!-- 头像区 -->
             <div class="avator-box">
-                <img src="../assets/logo.png" alt="">
+                <img src="" alt="">
             </div>
             <!-- 登录表单区 -->
             <el-form ref="loginFormRef" :model="loginForm" :rules="loginFormRules" label-width="0px" class="login-form">
